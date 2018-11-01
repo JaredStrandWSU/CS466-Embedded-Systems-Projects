@@ -1,2 +1,2 @@
 # CS466-Projects
-Compilation of CS466 Embedded Systems source code for my projects on the launchpad board.
+4 way stop light intersection project. Simulates two 4 way traffic light with cars and pedestrians.
