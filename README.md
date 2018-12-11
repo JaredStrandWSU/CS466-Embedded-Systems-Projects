@@ -5,7 +5,8 @@
 Project 2: Stoplight Signal Simulator</br>
 Project 3: 4-way Intersection Simulator</br>
 Project 4: Bluetooth Tranceiver</br>
-Project 5: Bluetooth Temperature Sensor</br>**
+Project 5: Bluetooth Temperature Sensor</br>
+Project 6: Machine Learning Screen Usage Monitor</br>**
 
 ### NodeMCU Lua ESP8266 CP2102 Esp-12e Wireless WiFi Internet Development Board
 **Hackathon Project: ControllerCode.ino**</br>
